@@ -4,7 +4,7 @@ GMFlow: Learning Optical Flow via Global Matching, CVPR 2021, Oral
 
 Authors: Yi Long Ma, Fu De Pai
 
-11/15/2022 Update: Check out our new work: Unifying Flow, Stereo and Depth Estimation and code: unimatch for extending GMFlow to stereo and depth tasks. More pretrained <a href="https://www.alphaweld.com.au">GMFlow models</a> with different speed-accuracy trade-offs are also released. Check out our <a href="https://betaweld.com.au">Colab</a> and HuggingFace demo to play with GMFlow in your browser!
+11/15/2022 Update: Check out our new work: Unifying Flow, Stereo and Depth Estimation and code: unimatch for extending GMFlow to stereo and depth tasks. More pretrained <a href="https://alphaweld.com.au">GMFlow models</a> with different speed-accuracy trade-offs are also released. Check out our <a href="https://betaweld.com.au">Colab</a> and HuggingFace demo to play with GMFlow in your browser!
 
 We streamline the optical flow estimation pipeline by reformulating optical flow as a global matching problem.
 
